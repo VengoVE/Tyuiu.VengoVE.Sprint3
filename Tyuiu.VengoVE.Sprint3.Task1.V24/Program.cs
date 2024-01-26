@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.VengoVE.Sprint3.Task0.V25.Lib;
+using Tyuiu.VengoVE.Sprint3.Task1.V24.Lib;
 
-namespace Tyuiu.VengoVE.Sprint3.Task0.V25
+namespace Tyuiu.VengoVE.Sprint3.Task1.V24
 {
     class Program
     {
@@ -16,13 +16,13 @@ namespace Tyuiu.VengoVE.Sprint3.Task0.V25
             Console.Title = "Спринт #3 | Выполнил: Вэнго В. Э. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема:  Оператор цикла for                                               *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #25                                                             *");
+            Console.WriteLine("* Тема:  Оператор цикла while                                             *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнил: Вэнго В. Э. | ИСПб-23-1                                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл for, которая вычисляет произведение    ");
+            Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумма         ");
             Console.WriteLine("* ряда по формуле, при X=5                                                *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
@@ -30,7 +30,7 @@ namespace Tyuiu.VengoVE.Sprint3.Task0.V25
 
             double value = 5;
             int startValue = 1;
-            int stopValue = 7;
+            int stopValue = 12;
 
             Console.WriteLine("Переменная X = " + value);
             Console.WriteLine("Старт шага = " + startValue);
@@ -40,7 +40,7 @@ namespace Tyuiu.VengoVE.Sprint3.Task0.V25
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Сумма ряда = " + ds.GetSumSeries(value, startValue, stopValue));
+            Console.WriteLine("Произведение ряда = " + ds.GetSumSeries((int)value, startValue, stopValue));
             Console.ReadKey();
         }
     }
