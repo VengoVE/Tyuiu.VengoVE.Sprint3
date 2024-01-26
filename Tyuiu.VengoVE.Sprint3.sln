@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{FE08CD72-4E83-477D-B164-1DD559D6F9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V24", "Tyuiu.VengoVE.Sprint3.Task0.V24\Tyuiu.VengoVE.Sprint3.Task0.V24.csproj", "{C5472C95-543C-4BC4-83F7-F329F5D2200D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V25", "Tyuiu.VengoVE.Sprint3.Task0.V24\Tyuiu.VengoVE.Sprint3.Task0.V25.csproj", "{C5472C95-543C-4BC4-83F7-F329F5D2200D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V24.Lib", "Tyuiu.VengoVE.Sprint3.Task0.V24.Lib\Tyuiu.VengoVE.Sprint3.Task0.V24.Lib.csproj", "{EB76B60C-501E-46A6-BE4F-831556F1B4AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V25.Lib", "Tyuiu.VengoVE.Sprint3.Task0.V24.Lib\Tyuiu.VengoVE.Sprint3.Task0.V25.Lib.csproj", "{EB76B60C-501E-46A6-BE4F-831556F1B4AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V24.Test", "Tyuiu.VengoVE.Sprint3.Task0.V24.Test\Tyuiu.VengoVE.Sprint3.Task0.V24.Test.csproj", "{294F2E98-1978-402B-94E6-B5D9CA464176}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint3.Task0.V25.Test", "Tyuiu.VengoVE.Sprint3.Task0.V24.Test\Tyuiu.VengoVE.Sprint3.Task0.V25.Test.csproj", "{294F2E98-1978-402B-94E6-B5D9CA464176}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{5CD1BE9E-F196-4CBD-BF88-440F482ADA43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

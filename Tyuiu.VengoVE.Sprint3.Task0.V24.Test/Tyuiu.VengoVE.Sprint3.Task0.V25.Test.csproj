@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.VengoVE.Sprint3.Task0.V24.Lib\Tyuiu.VengoVE.Sprint3.Task0.V24.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.VengoVE.Sprint3.Task0.V24.Lib\Tyuiu.VengoVE.Sprint3.Task0.V25.Lib.csproj">
       <Project>{eb76b60c-501e-46a6-be4f-831556f1b4ae}</Project>
-      <Name>Tyuiu.VengoVE.Sprint3.Task0.V24.Lib</Name>
+      <Name>Tyuiu.VengoVE.Sprint3.Task0.V25.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
