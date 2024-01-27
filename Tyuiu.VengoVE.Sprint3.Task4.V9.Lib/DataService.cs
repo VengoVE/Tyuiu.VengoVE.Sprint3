@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint3;
 
-namespace Tyuiu.VengoVE.Sprint3.Task4.V9.Lib
+namespace Tyuiu.VengoVE.Sprint3.Task4.V29.Lib
 {
-    public class DataService : ISprint3Task4V9
+    public class DataService : ISprint3Task4V29
     {
         public double Calculate(int startValue, int stopValue)
         {

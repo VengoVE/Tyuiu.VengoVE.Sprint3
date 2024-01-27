@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43870F06-8EB3-47C7-B9C3-7906DD27D045}</ProjectGuid>
+    <ProjectGuid>{5CB10366-3CF9-4212-9997-9D314E1B2426}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.VengoVE.Sprint3.Task4.V9</RootNamespace>
-    <AssemblyName>Tyuiu.VengoVE.Sprint3.Task4.V9</AssemblyName>
+    <RootNamespace>Tyuiu.VengoVE.Sprint3.Task5.V9</RootNamespace>
+    <AssemblyName>Tyuiu.VengoVE.Sprint3.Task5.V9</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.VengoVE.Sprint3.Task4.V9.Lib\Tyuiu.VengoVE.Sprint3.Task4.V9.Lib.csproj">
-      <Project>{c1016b9e-41a8-487e-acc2-11c31c9ff61b}</Project>
-      <Name>Tyuiu.VengoVE.Sprint3.Task4.V9.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.VengoVE.Sprint3.Task5.V9.Lib\Tyuiu.VengoVE.Sprint3.Task5.V9.Lib.csproj">
+      <Project>{f7f31ddc-7343-4008-a7d5-530385f25553}</Project>
+      <Name>Tyuiu.VengoVE.Sprint3.Task5.V9.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
